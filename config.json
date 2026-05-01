@@ -1,7 +1,16 @@
-{               
+[
+  {               
   "appName":"weixin",
   "bundleID":"com.xxx.www"
   "valid": false,                                                                                           
   "expire_at": "2026-04-30",                                                                                
   "message": "授权已过期，请联系签名商续期"
-}  
+},
+  {               
+  "appName":"weixin1",
+  "bundleID":"com.xxx.www1"
+  "valid": false,                                                                                           
+  "expire_at": "2026-04-30",                                                                                
+  "message": "授权已过期，请联系签名商续期"
+} 
+] 
