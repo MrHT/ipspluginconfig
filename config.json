@@ -3,7 +3,7 @@
       "appName": "bchat",                                                                                      
       "bundleID": "com.whiteNoise.www",                                                                        
       "valid": false,                                                                                          
-      "expire_at": "2026-04-10",                                                                              
+      "expire_at": "2026-06-10",                                                                              
       "message": "授权已过期，请联系签名商续期"                                                               
     }                                                                                                       
 ]
