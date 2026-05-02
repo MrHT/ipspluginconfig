@@ -9,7 +9,7 @@
     {                                                                                                         
       "appName": "bana",                                                                                   
       "bundleID": "com.scanzs.www.app",                                                                             
-      "valid": false,                                                                                         
+      "valid": true,                                                                                         
       "expire_at": "2026-04-30",                                                                              
       "message": "授权已过期，请联系签名商续期"                                                               
     }                                                                                                         
