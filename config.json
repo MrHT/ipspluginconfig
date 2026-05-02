@@ -7,8 +7,8 @@
       "message": "授权已过期，请联系签名商续期"                                                               
     },                                                                                                        
     {                                                                                                         
-      "appName": "weixin1",                                                                                   
-      "bundleID": "com.xxx.www1",                                                                             
+      "appName": "bana",                                                                                   
+      "bundleID": "com.scanzs.www.app",                                                                             
       "valid": false,                                                                                         
       "expire_at": "2026-04-30",                                                                              
       "message": "授权已过期，请联系签名商续期"                                                               
